@@ -14,7 +14,7 @@ window.CustomLinks = JSON.stringify([
     icon: "icon-github",
   },
   {
-    link: "https://api.nuiziyyds.com",
+    link: "https://api.nuiziyyds.com/share/UJw2Ib37MihCJcIE",
     name: "Uptime",
     icon: "icon-hourglass-start",
   },
@@ -85,3 +85,4 @@ if (document.readyState === 'loading') {
 } else {
   initCustomLinks();
 }
+
